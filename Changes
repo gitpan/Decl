@@ -37,3 +37,7 @@ Revision history for Class-Declarative
         Renamed the whole damn thing to Decl to save typing and because it didn't really belong in Class:: anyway.
         Reworked the tag-to-class mapping code to rely on a Decl-native node structure for definition.
         Added a macro system and ... I'm not even sure what.
+        
+0.11    2011-10-20
+        Oh, right, *that* is why I never uploaded my Windows-built modules.
+        (See http://perl.bristolbath.org/blog/lyle/2009/01/packaging-cpan-modules-from-windows-in-linux-style.html)

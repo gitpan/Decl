@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Decl
-version:            0.10
+version:            0.11
 abstract:           Provides a declarative framework for Perl
 author:
     - Michael Roberts <michael@vivtek.com>
